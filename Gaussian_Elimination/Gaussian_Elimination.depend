@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631108170 source:c:\users\sergiyyermak\desktop\cs projects\gaussian_elimination\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
